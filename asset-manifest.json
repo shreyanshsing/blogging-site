@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blogging-site/static/css/main.d4af4a2a.chunk.css",
+    "main.js": "/blogging-site/static/js/main.aabc668f.chunk.js",
+    "main.js.map": "/blogging-site/static/js/main.aabc668f.chunk.js.map",
+    "runtime-main.js": "/blogging-site/static/js/runtime-main.f61f5114.js",
+    "runtime-main.js.map": "/blogging-site/static/js/runtime-main.f61f5114.js.map",
+    "static/js/2.66c0443e.chunk.js": "/blogging-site/static/js/2.66c0443e.chunk.js",
+    "static/js/2.66c0443e.chunk.js.map": "/blogging-site/static/js/2.66c0443e.chunk.js.map",
+    "index.html": "/blogging-site/index.html",
+    "precache-manifest.93f47a40097d9ab1ec26c1532e72abf9.js": "/blogging-site/precache-manifest.93f47a40097d9ab1ec26c1532e72abf9.js",
+    "service-worker.js": "/blogging-site/service-worker.js",
+    "static/css/main.d4af4a2a.chunk.css.map": "/blogging-site/static/css/main.d4af4a2a.chunk.css.map",
+    "static/js/2.66c0443e.chunk.js.LICENSE.txt": "/blogging-site/static/js/2.66c0443e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/blogging-site/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f61f5114.js",
+    "static/js/2.66c0443e.chunk.js",
+    "static/css/main.d4af4a2a.chunk.css",
+    "static/js/main.aabc668f.chunk.js"
+  ]
+}
